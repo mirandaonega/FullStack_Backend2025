@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Win10\\source\\repos\\mirandaonega\\FullStack_Backend2025\\EjemploAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9A0FB5-145B-4066-89B5-6EAAB0909E93}|EjemploAPI.csproj|c:\\users\\win10\\source\\repos\\mirandaonega\\fullstack_backend2025\\ejemploapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD9A0FB5-145B-4066-89B5-6EAAB0909E93}|EjemploAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9A0FB5-145B-4066-89B5-6EAAB0909E93}|EjemploAPI.csproj|c:\\users\\win10\\source\\repos\\mirandaonega\\fullstack_backend2025\\ejemploapi\\ejemplocondy\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD9A0FB5-145B-4066-89B5-6EAAB0909E93}|EjemploAPI.csproj|solutionrelative:ejemplocondy\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9A0FB5-145B-4066-89B5-6EAAB0909E93}|EjemploAPI.csproj|c:\\users\\win10\\source\\repos\\mirandaonega\\fullstack_backend2025\\ejemploapi\\ejemplocondy\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD9A0FB5-145B-4066-89B5-6EAAB0909E93}|EjemploAPI.csproj|solutionrelative:ejemplocondy\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9A0FB5-145B-4066-89B5-6EAAB0909E93}|EjemploAPI.csproj|c:\\users\\win10\\source\\repos\\mirandaonega\\fullstack_backend2025\\ejemploapi\\ejemplocondy\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD9A0FB5-145B-4066-89B5-6EAAB0909E93}|EjemploAPI.csproj|solutionrelative:ejemplocondy\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9A0FB5-145B-4066-89B5-6EAAB0909E93}|EjemploAPI.csproj|c:\\users\\win10\\source\\repos\\mirandaonega\\fullstack_backend2025\\ejemploapi\\controllers\\ejemplocondycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD9A0FB5-145B-4066-89B5-6EAAB0909E93}|EjemploAPI.csproj|solutionrelative:controllers\\ejemplocondycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\mirandaonega\\FullStack_Backend2025\\EjemploAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Win10\\source\\repos\\mirandaonega\\FullStack_Backend2025\\EjemploAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T22:51:18.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\mirandaonega\\FullStack_Backend2025\\EjemploAPI\\EjemploConDY\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "EjemploConDY\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\Win10\\source\\repos\\mirandaonega\\FullStack_Backend2025\\EjemploAPI\\EjemploConDY\\UsuarioService.cs",
+              "RelativeToolTip": "EjemploConDY\\UsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T22:40:27.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\mirandaonega\\FullStack_Backend2025\\EjemploAPI\\EjemploConDY\\EmailService.cs",
+              "RelativeDocumentMoniker": "EjemploConDY\\EmailService.cs",
+              "ToolTip": "C:\\Users\\Win10\\source\\repos\\mirandaonega\\FullStack_Backend2025\\EjemploAPI\\EjemploConDY\\EmailService.cs",
+              "RelativeToolTip": "EjemploConDY\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T22:36:12.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\mirandaonega\\FullStack_Backend2025\\EjemploAPI\\EjemploConDY\\IEmailService.cs",
+              "RelativeDocumentMoniker": "EjemploConDY\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\Win10\\source\\repos\\mirandaonega\\FullStack_Backend2025\\EjemploAPI\\EjemploConDY\\IEmailService.cs",
+              "RelativeToolTip": "EjemploConDY\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T22:34:59.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EjemploConDYController.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\mirandaonega\\FullStack_Backend2025\\EjemploAPI\\Controllers\\EjemploConDYController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EjemploConDYController.cs",
+              "ToolTip": "C:\\Users\\Win10\\source\\repos\\mirandaonega\\FullStack_Backend2025\\EjemploAPI\\Controllers\\EjemploConDYController.cs",
+              "RelativeToolTip": "Controllers\\EjemploConDYController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T22:33:41.596Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
