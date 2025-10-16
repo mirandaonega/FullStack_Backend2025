@@ -1,42 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Win10\\Documents\\Miranda\\FullStack-UTN-GSC\\Backend\\3- API .NET\\OrmAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\Win10\\source\\repos\\mirandaonega\\FullStack_Backend2025\\OrmAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A9F1756-0513-4C86-8A0C-589621E29157}|OrmAPI.csproj|c:\\users\\win10\\documents\\miranda\\fullstack-utn-gsc\\backend\\3- api .net\\ormapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6A9F1756-0513-4C86-8A0C-589621E29157}|OrmAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A9F1756-0513-4C86-8A0C-589621E29157}|OrmAPI.csproj|c:\\users\\win10\\documents\\miranda\\fullstack-utn-gsc\\backend\\3- api .net\\ormapi\\repository\\northwindrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A9F1756-0513-4C86-8A0C-589621E29157}|OrmAPI.csproj|solutionrelative:repository\\northwindrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A9F1756-0513-4C86-8A0C-589621E29157}|OrmAPI.csproj|c:\\users\\win10\\documents\\miranda\\fullstack-utn-gsc\\backend\\3- api .net\\ormapi\\controllers\\northwindcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A9F1756-0513-4C86-8A0C-589621E29157}|OrmAPI.csproj|solutionrelative:controllers\\northwindcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A9F1756-0513-4C86-8A0C-589621E29157}|OrmAPI.csproj|c:\\users\\win10\\documents\\miranda\\fullstack-utn-gsc\\backend\\3- api .net\\ormapi\\repository\\inorthwindrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6A9F1756-0513-4C86-8A0C-589621E29157}|OrmAPI.csproj|c:\\users\\win10\\source\\repos\\mirandaonega\\fullstack_backend2025\\ormapi\\repository\\inorthwindrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A9F1756-0513-4C86-8A0C-589621E29157}|OrmAPI.csproj|solutionrelative:repository\\inorthwindrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A9F1756-0513-4C86-8A0C-589621E29157}|OrmAPI.csproj|c:\\users\\win10\\documents\\miranda\\fullstack-utn-gsc\\backend\\3- api .net\\ormapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A9F1756-0513-4C86-8A0C-589621E29157}|OrmAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A9F1756-0513-4C86-8A0C-589621E29157}|OrmAPI.csproj|c:\\users\\win10\\source\\repos\\mirandaonega\\fullstack_backend2025\\ormapi\\repository\\northwindrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9F1756-0513-4C86-8A0C-589621E29157}|OrmAPI.csproj|solutionrelative:repository\\northwindrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A9F1756-0513-4C86-8A0C-589621E29157}|OrmAPI.csproj|c:\\users\\win10\\documents\\miranda\\fullstack-utn-gsc\\backend\\3- api .net\\ormapi\\modelo\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A9F1756-0513-4C86-8A0C-589621E29157}|OrmAPI.csproj|solutionrelative:modelo\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A9F1756-0513-4C86-8A0C-589621E29157}|OrmAPI.csproj|c:\\users\\win10\\source\\repos\\mirandaonega\\fullstack_backend2025\\ormapi\\controllers\\northwindcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9F1756-0513-4C86-8A0C-589621E29157}|OrmAPI.csproj|solutionrelative:controllers\\northwindcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A9F1756-0513-4C86-8A0C-589621E29157}|OrmAPI.csproj|c:\\users\\win10\\documents\\miranda\\fullstack-utn-gsc\\backend\\3- api .net\\ormapi\\modelo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A9F1756-0513-4C86-8A0C-589621E29157}|OrmAPI.csproj|solutionrelative:modelo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A9F1756-0513-4C86-8A0C-589621E29157}|OrmAPI.csproj|c:\\users\\win10\\documents\\miranda\\fullstack-utn-gsc\\backend\\3- api .net\\ormapi\\modelo\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6A9F1756-0513-4C86-8A0C-589621E29157}|OrmAPI.csproj|c:\\users\\win10\\source\\repos\\mirandaonega\\fullstack_backend2025\\ormapi\\modelo\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A9F1756-0513-4C86-8A0C-589621E29157}|OrmAPI.csproj|solutionrelative:modelo\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A9F1756-0513-4C86-8A0C-589621E29157}|OrmAPI.csproj|c:\\users\\win10\\documents\\miranda\\fullstack-utn-gsc\\backend\\3- api .net\\ormapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A9F1756-0513-4C86-8A0C-589621E29157}|OrmAPI.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A9F1756-0513-4C86-8A0C-589621E29157}|OrmAPI.csproj|c:\\users\\win10\\source\\repos\\mirandaonega\\fullstack_backend2025\\ormapi\\modelo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9F1756-0513-4C86-8A0C-589621E29157}|OrmAPI.csproj|solutionrelative:modelo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,112 +34,68 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\mirandaonega\\FullStack_Backend2025\\OrmAPI\\Modelo\\Products.cs",
+              "RelativeDocumentMoniker": "Modelo\\Products.cs",
+              "ToolTip": "C:\\Users\\Win10\\source\\repos\\mirandaonega\\FullStack_Backend2025\\OrmAPI\\Modelo\\Products.cs",
+              "RelativeToolTip": "Modelo\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T19:54:18.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\mirandaonega\\FullStack_Backend2025\\OrmAPI\\Modelo\\Employee.cs",
+              "RelativeDocumentMoniker": "Modelo\\Employee.cs",
+              "ToolTip": "C:\\Users\\Win10\\source\\repos\\mirandaonega\\FullStack_Backend2025\\OrmAPI\\Modelo\\Employee.cs",
+              "RelativeToolTip": "Modelo\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T18:22:07.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "NorthwindController.cs",
-              "DocumentMoniker": "C:\\Users\\Win10\\Documents\\Miranda\\FullStack-UTN-GSC\\Backend\\3- API .NET\\OrmAPI\\Controllers\\NorthwindController.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\mirandaonega\\FullStack_Backend2025\\OrmAPI\\Controllers\\NorthwindController.cs",
               "RelativeDocumentMoniker": "Controllers\\NorthwindController.cs",
-              "ToolTip": "C:\\Users\\Win10\\Documents\\Miranda\\FullStack-UTN-GSC\\Backend\\3- API .NET\\OrmAPI\\Controllers\\NorthwindController.cs",
+              "ToolTip": "C:\\Users\\Win10\\source\\repos\\mirandaonega\\FullStack_Backend2025\\OrmAPI\\Controllers\\NorthwindController.cs",
               "RelativeToolTip": "Controllers\\NorthwindController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAIwCEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAG4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T22:30:56.991Z"
+              "WhenOpened": "2025-10-11T22:30:56.991Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "NorthwindRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Win10\\Documents\\Miranda\\FullStack-UTN-GSC\\Backend\\3- API .NET\\OrmAPI\\Repository\\NorthwindRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\mirandaonega\\FullStack_Backend2025\\OrmAPI\\Repository\\NorthwindRepository.cs",
               "RelativeDocumentMoniker": "Repository\\NorthwindRepository.cs",
-              "ToolTip": "C:\\Users\\Win10\\Documents\\Miranda\\FullStack-UTN-GSC\\Backend\\3- API .NET\\OrmAPI\\Repository\\NorthwindRepository.cs",
+              "ToolTip": "C:\\Users\\Win10\\source\\repos\\mirandaonega\\FullStack_Backend2025\\OrmAPI\\Repository\\NorthwindRepository.cs",
               "RelativeToolTip": "Repository\\NorthwindRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAFgAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T20:26:05.569Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "INorthwindRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Win10\\Documents\\Miranda\\FullStack-UTN-GSC\\Backend\\3- API .NET\\OrmAPI\\Repository\\INorthwindRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\INorthwindRepository.cs",
-              "ToolTip": "C:\\Users\\Win10\\Documents\\Miranda\\FullStack-UTN-GSC\\Backend\\3- API .NET\\OrmAPI\\Repository\\INorthwindRepository.cs",
-              "RelativeToolTip": "Repository\\INorthwindRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T20:25:14.819Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Win10\\Documents\\Miranda\\FullStack-UTN-GSC\\Backend\\3- API .NET\\OrmAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Win10\\Documents\\Miranda\\FullStack-UTN-GSC\\Backend\\3- API .NET\\OrmAPI\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T20:23:46.925Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Win10\\Documents\\Miranda\\FullStack-UTN-GSC\\Backend\\3- API .NET\\OrmAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Win10\\Documents\\Miranda\\FullStack-UTN-GSC\\Backend\\3- API .NET\\OrmAPI\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-03T20:14:45.536Z",
+              "WhenOpened": "2025-10-03T20:26:05.569Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Users\\Win10\\Documents\\Miranda\\FullStack-UTN-GSC\\Backend\\3- API .NET\\OrmAPI\\Data\\DataContext.cs",
-              "RelativeDocumentMoniker": "Data\\DataContext.cs",
-              "ToolTip": "C:\\Users\\Win10\\Documents\\Miranda\\FullStack-UTN-GSC\\Backend\\3- API .NET\\OrmAPI\\Data\\DataContext.cs",
-              "RelativeToolTip": "Data\\DataContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "INorthwindRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Win10\\source\\repos\\mirandaonega\\FullStack_Backend2025\\OrmAPI\\Repository\\INorthwindRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\INorthwindRepository.cs",
+              "ToolTip": "C:\\Users\\Win10\\source\\repos\\mirandaonega\\FullStack_Backend2025\\OrmAPI\\Repository\\INorthwindRepository.cs",
+              "RelativeToolTip": "Repository\\INorthwindRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T20:13:03.011Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Products.cs",
-              "DocumentMoniker": "C:\\Users\\Win10\\Documents\\Miranda\\FullStack-UTN-GSC\\Backend\\3- API .NET\\OrmAPI\\Modelo\\Products.cs",
-              "RelativeDocumentMoniker": "Modelo\\Products.cs",
-              "ToolTip": "C:\\Users\\Win10\\Documents\\Miranda\\FullStack-UTN-GSC\\Backend\\3- API .NET\\OrmAPI\\Modelo\\Products.cs",
-              "RelativeToolTip": "Modelo\\Products.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T20:09:44.085Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\Win10\\Documents\\Miranda\\FullStack-UTN-GSC\\Backend\\3- API .NET\\OrmAPI\\Modelo\\Employee.cs",
-              "RelativeDocumentMoniker": "Modelo\\Employee.cs",
-              "ToolTip": "C:\\Users\\Win10\\Documents\\Miranda\\FullStack-UTN-GSC\\Backend\\3- API .NET\\OrmAPI\\Modelo\\Employee.cs",
-              "RelativeToolTip": "Modelo\\Employee.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAwwA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T20:09:03.624Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Categories.cs",
-              "DocumentMoniker": "C:\\Users\\Win10\\Documents\\Miranda\\FullStack-UTN-GSC\\Backend\\3- API .NET\\OrmAPI\\Modelo\\Categories.cs",
-              "RelativeDocumentMoniker": "Modelo\\Categories.cs",
-              "ToolTip": "C:\\Users\\Win10\\Documents\\Miranda\\FullStack-UTN-GSC\\Backend\\3- API .NET\\OrmAPI\\Modelo\\Categories.cs",
-              "RelativeToolTip": "Modelo\\Categories.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T20:07:32.076Z"
+              "WhenOpened": "2025-10-03T20:25:14.819Z",
+              "EditorCaption": ""
             }
           ]
         }

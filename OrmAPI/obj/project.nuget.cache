@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J+aFd8I3iCU=",
+  "dgSpecHash": "8ny04wThuwA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Win10\\Documents\\Miranda\\FullStack-UTN-GSC\\Backend\\3- API .NET\\OrmAPI\\OrmAPI.csproj",
+  "projectFilePath": "C:\\Users\\Win10\\source\\repos\\mirandaonega\\FullStack_Backend2025\\OrmAPI\\OrmAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Win10\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Win10\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

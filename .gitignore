@@ -1,5 +1,15 @@
 ﻿################################################################################
 # Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
 ################################################################################
+# Archivos y carpetas de Visual Studio (IDE)
+.vs/
+*.vspscc
+*.vssscc
 
-/.vs
+# Carpetas de Build y Binarios
+[Bb]in/
+[Oo]bj/
+
+# Archivos de depuración y usuario
+*.suo
+*.user

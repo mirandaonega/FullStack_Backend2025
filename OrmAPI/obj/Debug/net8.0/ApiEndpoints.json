@@ -21,12 +21,223 @@
   },
   {
     "ContainingType": "OrmAPI.Controllers.NorthwindController",
+    "Method": "CantidadEmpleadosPorTitulos",
+    "RelativePath": "api/Northwind/api/CantidadEmpleadosPorTitulos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.Dictionary\u00602[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OrmAPI.Controllers.NorthwindController",
+    "Method": "ElEmpleadoMasGrande",
+    "RelativePath": "api/Northwind/api/ElEmpleadoMasGrande",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "OrmAPI.Modelo.Employee",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OrmAPI.Controllers.NorthwindController",
+    "Method": "ObtenerEmpleadoIDporTitulo",
+    "RelativePath": "api/Northwind/api/EmpleadoIDporTitulo/{titulo}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "titulo",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OrmAPI.Controllers.NorthwindController",
+    "Method": "ObtenerEmpleadoPorID",
+    "RelativePath": "api/Northwind/api/EmpleadoPorID/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "OrmAPI.Modelo.Employee",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OrmAPI.Controllers.NorthwindController",
+    "Method": "ObtenerEmpleadoPorPais",
+    "RelativePath": "api/Northwind/api/EmpleadoPorPais/{pais}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pais",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "OrmAPI.Modelo.Employee",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OrmAPI.Controllers.NorthwindController",
+    "Method": "ObtenerEmpleadosPorNombre",
+    "RelativePath": "api/Northwind/api/EmpleadosPorNombre/{nombre}/{apellido}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nombre",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "apellido",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[OrmAPI.Modelo.Employee, OrmAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OrmAPI.Controllers.NorthwindController",
+    "Method": "ObtenerProductosConCategoria",
+    "RelativePath": "api/Northwind/api/ObtenerProductosConCategoria",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OrmAPI.Controllers.NorthwindController",
+    "Method": "ObtenerProductosQueContienen",
+    "RelativePath": "api/Northwind/api/ObtenerProductosQueContienen/{palabra}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "palabra",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[OrmAPI.Modelo.Products, OrmAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OrmAPI.Controllers.NorthwindController",
     "Method": "GetAll",
     "RelativePath": "api/Northwind/api/TodosLosEmpleados",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[OrmAPI.Modelo.Employee, OrmAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OrmAPI.Controllers.NorthwindController",
+    "Method": "ObtenerTodosLosEmpleadosPorPais",
+    "RelativePath": "api/Northwind/api/TodosLosEmpleadosPorPais/{pais}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pais",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": [
       {
         "Type": "System.Collections.Generic.List\u00601[[OrmAPI.Modelo.Employee, OrmAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",

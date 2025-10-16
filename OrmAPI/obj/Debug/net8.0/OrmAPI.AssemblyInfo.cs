@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OrmAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+683a51852b303bb2d93172398d3170c54dacfaaa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1e0a1b59dbdbbad86e8f15277ba0820b684a75f")]
 [assembly: System.Reflection.AssemblyProductAttribute("OrmAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OrmAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Win10\\source\\repos\\MiPrimerAPI\\MiPrimerAPI.csproj": {}
+    "C:\\Users\\Win10\\source\\repos\\mirandaonega\\FullStack_Backend2025\\MiPrimerAPI\\MiPrimerAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Win10\\source\\repos\\MiPrimerAPI\\MiPrimerAPI.csproj": {
+    "C:\\Users\\Win10\\source\\repos\\mirandaonega\\FullStack_Backend2025\\MiPrimerAPI\\MiPrimerAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Win10\\source\\repos\\MiPrimerAPI\\MiPrimerAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Win10\\source\\repos\\mirandaonega\\FullStack_Backend2025\\MiPrimerAPI\\MiPrimerAPI.csproj",
         "projectName": "MiPrimerAPI",
-        "projectPath": "C:\\Users\\Win10\\source\\repos\\MiPrimerAPI\\MiPrimerAPI.csproj",
+        "projectPath": "C:\\Users\\Win10\\source\\repos\\mirandaonega\\FullStack_Backend2025\\MiPrimerAPI\\MiPrimerAPI.csproj",
         "packagesPath": "C:\\Users\\Win10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Win10\\source\\repos\\MiPrimerAPI\\obj\\",
+        "outputPath": "C:\\Users\\Win10\\source\\repos\\mirandaonega\\FullStack_Backend2025\\MiPrimerAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
