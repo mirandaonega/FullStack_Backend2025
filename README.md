@@ -1,4 +1,4 @@
-# Formación en Desarrollo FullStack - Edición Mujeres 2025
+# Formación en Desarrollo Full Stack - Edición Mujeres 2025
 
 Este repositorio contiene las prácticas realizadas para la parte de Backend de la formación.
 
